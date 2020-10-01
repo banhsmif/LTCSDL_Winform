@@ -1,0 +1,9 @@
+C:\Users\cict\Documents\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\cict\Documents\Lab02\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache
+C:\Users\cict\Documents\Lab02\Lab02\obj\Debug\Lab02.frmTrungTam.resources
+C:\Users\cict\Documents\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\cict\Documents\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.Cache
+C:\Users\cict\Documents\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\cict\Documents\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\cict\Documents\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\cict\Documents\Lab02\Lab02\obj\Debug\Lab02.pdb
